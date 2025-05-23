@@ -1,0 +1,13 @@
+[project]
+name = "code-benchllm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cytetype>=0.1.4",
+    "jupyterlab>=4.4.2",
+    "pandas>=2.2.3",
+    "scanpy>=1.11.1",
+    "scipy>=1.15.3",
+]
