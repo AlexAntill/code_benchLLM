@@ -10,4 +10,5 @@ dependencies = [
     "pandas>=2.2.3",
     "scanpy>=1.11.1",
     "scipy>=1.15.3",
+    "session-info>=1.0.1",
 ]
