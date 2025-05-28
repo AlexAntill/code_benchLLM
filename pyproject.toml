@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "celltypist>=1.6.3",
     "cytetype>=0.1.4",
     "jupyterlab>=4.4.2",
     "networkx>=3.4.2",
