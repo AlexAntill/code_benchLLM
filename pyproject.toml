@@ -7,6 +7,8 @@ requires-python = ">=3.12"
 dependencies = [
     "cytetype>=0.1.4",
     "jupyterlab>=4.4.2",
+    "networkx>=3.4.2",
+    "obonet>=1.1.1",
     "pandas>=2.2.3",
     "python-dotenv>=1.1.0",
     "scanpy>=1.11.1",
