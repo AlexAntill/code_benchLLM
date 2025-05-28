@@ -8,6 +8,7 @@ dependencies = [
     "cytetype>=0.1.4",
     "jupyterlab>=4.4.2",
     "pandas>=2.2.3",
+    "python-dotenv>=1.1.0",
     "scanpy>=1.11.1",
     "scipy>=1.15.3",
     "session-info>=1.0.1",
